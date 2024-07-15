@@ -1,4 +1,4 @@
-echo "Setup script is running for bash."
+echo "Setup script is running for sveltekit and shadcn."
 
 npm create svelte@latest weights
 cd weights
