@@ -1,1 +1,6 @@
 Two setup bashs and the folder ready to be used when cloned and anything deleted. Repo is also set as template. 
+
+# Dev Setup
+- cd into weights
+- npm install
+- npm i -D @sveltejs/adapter-node
