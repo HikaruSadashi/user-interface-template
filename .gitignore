@@ -4,6 +4,10 @@
 # .output
 # .vercel
 /.svelte-kit
+
+# Right way of doing it:
+.svelte-kit 
+
 /build
 node_modules
 
